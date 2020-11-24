@@ -1,0 +1,10 @@
+{
+  "ids": {
+    "Character": 2
+  },
+  "models": {
+    "Character": {
+      "5ee374b0-541c-4f75-ad6d-1fa1721d3cf1": "{\"id\":\"5ee374b0-541c-4f75-ad6d-1fa1721d3cf1\",\"name\":\"Captain America\",\"level\":10,\"nextLevelExp\":11,\"currentExp\":10,\"maxHealth\":100,\"currentHealth\":89,\"maxMana\":100,\"currentMana\":78,\"attack\":67,\"defence\":78}"
+    }
+  }
+}

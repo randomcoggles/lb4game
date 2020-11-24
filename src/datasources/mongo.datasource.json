@@ -2,5 +2,5 @@
   "name": "mongo",
   "connector": "memory",
   "localStorage": "lb4game",
-  "file": "/common/lb4game.json"
+  "file": "./data/db.json"
 }
