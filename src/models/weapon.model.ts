@@ -1,4 +1,5 @@
 import {Entity, model, property, belongsTo} from '@loopback/repository';
+import uuid = require('uuid');
 import {Character} from './character.model';
 
 @model()
